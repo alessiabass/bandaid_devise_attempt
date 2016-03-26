@@ -1,1 +1,0 @@
-# bandaid_devise_attempt
